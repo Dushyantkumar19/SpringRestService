@@ -2,6 +2,7 @@
 Basic Spring REST service demo
 
 Below are the endpoints#
+
 --------------------------------------1st endpoint----------------------------------------------------------
 POST:http://localhost:8080/SpringRestService/rest/emp/update/2
 Request jSON:
